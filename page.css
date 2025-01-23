@@ -118,8 +118,8 @@ hr{
 */
 
 
-/***
-For tablets (max-width: 768px)
+
+/*For tablets (max-width: 768px)*/
 @media screen and (max-width: 768px) {
     .Nav {
         flex-direction: column;
@@ -150,7 +150,7 @@ For tablets (max-width: 768px)
 }
 
 /* For mobile phones (max-width: 480px) */
-/* @media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .Nav {
         flex-direction: column;
         padding: 4px;
@@ -189,4 +189,4 @@ For tablets (max-width: 768px)
         width: 95%;
     }
 }
- */
+ 
